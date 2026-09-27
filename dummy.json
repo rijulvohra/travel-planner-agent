@@ -1,0 +1,16 @@
+{
+    "origin": "NYC",
+    "destination": "Iceland",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-14",
+    "travelers": 2,
+    "budget": 2000,
+    "interests": [
+      "nature",
+      "hot springs"
+    ],
+    "constraints": [
+      "visit Blue Lagoon",
+      "avoid excessive driving"
+    ]
+  }
